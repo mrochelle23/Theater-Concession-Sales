@@ -26,7 +26,7 @@ theater-concession-sales/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mrochelle23/theater-concession-sales.git
+   git clone https://github.com/mrochelle23/Theater-Concession-Sales.git
    ```
 2. Navigate to the project directory:
    ```bash
