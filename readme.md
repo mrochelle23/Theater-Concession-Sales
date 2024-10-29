@@ -30,16 +30,16 @@ theater-concession-sales/
    ```
 2. Navigate to the project directory:
    ```bash
-   cd theater-concession-sales
+   cd Theater-Concession-sales
    ```
 3. Compile the program using a C++ compiler (e.g., g++):
    ```bash
-   g++ main.cpp -o theater-concession-sales
+   g++ main.cpp -o Theater-Concession-sales
    ```
 
 4. Run the executable:
    ```bash
-   ./theater-concession-sales
+   ./Theater-Concession-sales
    ```
 
 ## Usage
